@@ -1,5 +1,5 @@
 # python-numpy
-numpy_practice
+تمرینات numpy
 🐍 NumPy Practice & Data Analysis
 ✍️ Created by Somayeh Doosti
 📅 Date: July 2025
