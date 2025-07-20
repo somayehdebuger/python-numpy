@@ -1,5 +1,4 @@
-# python-numpy
-تمرینات numpy
+# تمرینات من از numpy
 🐍 NumPy Practice & Data Analysis
 ✍️ Created by Somayeh Doosti
 📅 Date: July 2025
